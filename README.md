@@ -74,7 +74,7 @@ Master-Master репликация
 Решение...
 
 
-![answer2](https://github.com/Vasiliy-Ser/SQL_M-M-M_11.6/blob/04e80b5aa4cb49b59ca0e6972bb843df63b5618d/docker/SQL-master-slave/docker-compose-sql.yml)
+![answer2](docker/SQL-master-slave/docker-compose-sql.yml)
 
  
 `При необходимости прикрепитe сюда скриншоты
@@ -104,7 +104,7 @@ Master-Master репликация
 Решение...
 
 
-![answer3](https://github.com/Vasiliy-Ser/SQL_M-M-M_11.6/blob/04e80b5aa4cb49b59ca0e6972bb843df63b5618d/docker/SQL-master-master/docker-compose-m-m.yml)
+![answer3](docker/SQL-master-master/docker-compose-m-m.yml)
 
 
 
