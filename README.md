@@ -73,7 +73,10 @@ Master-Master репликация
 
 Решение...
 
-
+```
+![answer2](https://github.com/Vasiliy-Ser/SQL_M-M-M_11.6/blob/04e80b5aa4cb49b59ca0e6972bb843df63b5618d/docker/SQL-master-slave/docker-compose-sql.yml)
+```
+ 
 `При необходимости прикрепитe сюда скриншоты
 
 ![answer2.1](https://github.com/Vasiliy-Ser/SQL_M-M-M_11.6/blob/48e471c17ffa03b0b5f15cf0e6a5f041eafac58c/img/answer11.6.21.png)
@@ -100,6 +103,11 @@ Master-Master репликация
 
 Решение...
 
+```
+![answer3](https://github.com/Vasiliy-Ser/SQL_M-M-M_11.6/blob/04e80b5aa4cb49b59ca0e6972bb843df63b5618d/docker/SQL-master-master/docker-compose-m-m.yml)
+
+
+```
 `При необходимости прикрепитe сюда скриншоты
 
 ![answer3.1](https://github.com/Vasiliy-Ser/SQL_M-M-M_11.6/blob/48e471c17ffa03b0b5f15cf0e6a5f041eafac58c/img/answer11.6.31.png)
